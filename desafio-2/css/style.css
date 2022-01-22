@@ -1,0 +1,28 @@
+
+*
+{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body
+{
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+  background-color: #414141;
+}
+h1
+{
+  margin-bottom: 20px;
+  color: #21e906;
+}
+a
+{
+  margin-top: 20px;
+  color: #21e906;
+  text-decoration: none;
+}
