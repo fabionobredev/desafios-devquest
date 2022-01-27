@@ -1,12 +1,11 @@
 
-*
-{
+*{
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
-body
-{
+
+body{
   display: flex;
   flex-direction: column;
   width: 100%;
@@ -15,13 +14,13 @@ body
   align-items: center;
   background-color: #414141;
 }
-h1
-{
+
+h1{
   margin-bottom: 20px;
   color: #21e906;
 }
-a
-{
+
+a{
   margin-top: 20px;
   color: #21e906;
   text-decoration: none;
